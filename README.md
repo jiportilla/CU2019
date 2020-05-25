@@ -1,2 +1,2 @@
-# CU2019
-CU 2019 Documents
+# CU AI LECTURE
+CU 2020 Documents
