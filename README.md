@@ -1,9 +1,8 @@
 # CU AI LECTURE
 CU 2020 Documents
 
-Slides [https://drive.google.com/file/d/1mC3M-b91gYok7YjDSBzzBqTmCRGF6L96/view?usp=sharing]
-
-Test with: 
+- [May 2020 Talk Slides](https://drive.google.com/file/d/1mC3M-b91gYok7YjDSBzzBqTmCRGF6L96/view?usp=sharing)
+- Test with: 
 
 ```
 {
